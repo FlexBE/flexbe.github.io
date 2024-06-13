@@ -12,7 +12,7 @@ For the latest source code and usage, see relevant respositories at:
 
 The official documentation source is at [FlexBE Documentation](https://github.com/FlexBE/flexbe_docs). Please post suggestions and corrections [here](https://github.com/FlexBE/flexbe_docs/issues).
 
-As of 13-June-2024, the original documentation by Philipp Schillinger is still available [here](http://philserver.bplaced.net/fbe/).
+As of 13-June-2024, the original documentation by Philipp Schillinger is available [here](http://philserver.bplaced.net/fbe/).
 
 ## Publications
 
